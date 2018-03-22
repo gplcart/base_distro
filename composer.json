@@ -1,6 +1,6 @@
 {
   "name": "gplcart/base_distro",
-  "version": "1.0.0-alfa",
+  "version": "1.0.0",
   "type": "metapackage",
   "license": "GPL-3.0-or-later",
   "require": {
@@ -35,5 +35,7 @@
     "gplcart/autocomplete_search": "^1",
     "gplcart/codemirror": "^1",
     "gplcart/translator": "^1"
-  }
+  },
+  "minimum-stability": "alpha",
+  "prefer-stable": true
 }
