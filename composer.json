@@ -2,6 +2,7 @@
   "name": "gplcart/base_distro",
   "version": "1.0.0-alfa",
   "type": "metapackage",
+  "license": "GPL-3.0-or-later",
   "require": {
     "gplcart/gplcart": "^1",
     "gplcart/base": "^1",
